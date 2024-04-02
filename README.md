@@ -12,6 +12,7 @@ This Kaggle data set (https://www.kaggle.com/datasets/arashnic/fitbit?resource=d
 ### Business Task
 To focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices and help guide marketing strategy for the company.
 ### Stakeholders
-○ Urška Sršen: Bellabeat’s cofounder and Chief Creative Officer 
-○ Sando Mur: Bellabeat’s cofounder; key member of the Bellabeat executive team. 
-○ Bellabeat marketing analytics team: A team of data analysts responsible for collecting, analyzing, and reporting data that helps guide Bellabeat’s marketing strategy. 
+○ Urška Sršen: Bellabeat’s cofounder and Chief Creative Officer  
+○ Sando Mur: Bellabeat’s cofounder; key member of the Bellabeat executive team.  
+○ Bellabeat marketing analytics team: A team of data analysts responsible for collecting, analyzing, and reporting data that helps guide Bellabeat’s marketing strategy.  
+ 
